@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wings236&show_icons=true&hide_title=true&theme=tokyonight&&hide_border=true" /> 
+
 <!--
 **Wings236/Wings236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://profile-counter.glitch.me/Wings236/count.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
